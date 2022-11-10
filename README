@@ -1,0 +1,23 @@
+CRITICAL PATH 
+- Spawn into tutorial
+    -Show the player how to move
+        -WASD on screen
+    -Show player that shadows kill you
+        -Shiny object just beyond reach in the dark
+        -Light switch placed elsewhere turns on a light to reach your flashlight (shiny object)
+- Discover the first puzzle
+    - In the first puzzle, you learn how to move lights and use flashlight to make a path to walk through the shadows
+        -See a dark exit and a switch
+        -Move lights in specific order + position to create path to switch
+        -Switch turns on light in the exit
+        -Move lights again to make new path to exit
+- Enter and meet shadow buddies
+    -Learn how to move buddies with the lights
+        - Buddies run away from light, use your flashlight to push them around
+    -Move buddies onto switch to unlock next room
+    -Make a path of light to the door while also leading buddies with you in the shadows
+- Enter final puzzle
+    -No moving lights, and flashlight breaks, need to move boxes and mirrors
+        - Move boxes to create a path of shadow for buddies to reach switch
+        - Tilt mirrors to create a path of light to reach the final door
+    -Need to get to the end with all buddies at the same place, they help you out of the dungeon
